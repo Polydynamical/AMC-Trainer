@@ -137,8 +137,12 @@ p {
     width: 15px;
     height: 15px;
     cursor: pointer;
+    transition: 0.4s;
 }
 
+.chooseColor:hover {
+    transform: scale(1.08);
+}
 .error {
     position: relative;
     animation: shakeInput .1s linear;

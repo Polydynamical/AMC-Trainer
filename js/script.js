@@ -38,6 +38,10 @@ function saveFont() {
     textFont();
 }
 
+function checkMark() {
+    onClick = document.getElementsByClassName("chooseColor").style.color = "red"
+}
+
 function textFont() {
     if (localStorage.getItem("fontFamily") == null) {
         localStorage.setItem("fontFamily", document.getElementById("fontFamily").value);
