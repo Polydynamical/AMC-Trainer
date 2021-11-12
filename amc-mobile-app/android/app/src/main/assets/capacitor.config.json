@@ -1,0 +1,6 @@
+{
+	"appId": "com.amctrainer.www",
+	"appName": "AMC Trainer",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}

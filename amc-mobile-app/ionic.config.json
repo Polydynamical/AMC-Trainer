@@ -1,0 +1,7 @@
+{
+  "name": "amc-mobile-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}

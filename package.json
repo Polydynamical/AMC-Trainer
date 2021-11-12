@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@capacitor/core": "^3.3.1",
+    "@ionic-native/in-app-browser": "^5.36.0",
+    "cordova-plugin-inappbrowser": "^5.0.0"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^3.3.1",
+    "@vue/cli-service": "4.5.15"
+  }
+}
